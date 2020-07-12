@@ -1,0 +1,6 @@
+{
+    // Instal enviroment for nodejs npm start
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
